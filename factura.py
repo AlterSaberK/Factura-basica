@@ -20,7 +20,7 @@ def factura():
 			print("el programa se cerrara datos invalidos")
 			sys.exit()			
 			
-        
+                precio * cantidad
 		total = D_E - precio
         
 	
